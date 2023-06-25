@@ -21,3 +21,4 @@ Choose the editor you want to open the file in and add the following line to the
 ```
 0 18 * * * /bin/sh (path to the file obtained from previous command)
 ```
+Run the system_info.sh as the root user
