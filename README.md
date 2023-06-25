@@ -1,6 +1,6 @@
 To get the scripts write the following command in your terminal
 ```
-
+git clone https://github.com/sharvatic/Spider_Task1.git
 ```
 Run the following commands before running the scripts
 ```
